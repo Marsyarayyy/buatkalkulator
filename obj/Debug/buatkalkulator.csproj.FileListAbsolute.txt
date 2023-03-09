@@ -1,0 +1,11 @@
+C:\Users\marsy\Downloads\buatkalkulator\obj\Debug\buatkalkulator.csproj.AssemblyReference.cache
+C:\Users\marsy\Downloads\buatkalkulator\obj\Debug\buatkalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Downloads\buatkalkulator\obj\Debug\buatkalkulator.Form1.resources
+C:\Users\marsy\Downloads\buatkalkulator\obj\Debug\buatkalkulator.Properties.Resources.resources
+C:\Users\marsy\Downloads\buatkalkulator\obj\Debug\buatkalkulator.csproj.GenerateResource.cache
+C:\Users\marsy\Downloads\buatkalkulator\obj\Debug\buatkalkulator.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Downloads\buatkalkulator\bin\Debug\buatkalkulator.exe.config
+C:\Users\marsy\Downloads\buatkalkulator\bin\Debug\buatkalkulator.exe
+C:\Users\marsy\Downloads\buatkalkulator\bin\Debug\buatkalkulator.pdb
+C:\Users\marsy\Downloads\buatkalkulator\obj\Debug\buatkalkulator.exe
+C:\Users\marsy\Downloads\buatkalkulator\obj\Debug\buatkalkulator.pdb

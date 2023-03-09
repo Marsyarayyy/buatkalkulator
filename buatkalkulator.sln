@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buatkalkulator", "buatkalkulator.csproj", "{CDDCF7BB-78E2-4380-92E7-EE664536072D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDCF7BB-78E2-4380-92E7-EE664536072D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDCF7BB-78E2-4380-92E7-EE664536072D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDCF7BB-78E2-4380-92E7-EE664536072D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDCF7BB-78E2-4380-92E7-EE664536072D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C322956-6749-405B-BADB-9BFAD3DB3C8A}
+	EndGlobalSection
+EndGlobal
